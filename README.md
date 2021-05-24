@@ -7,10 +7,10 @@ This is a simple REACT App that allows users to add new notes with title and con
 *Install React dependecies.
 *Browser preferably Chrome.
 
-##Technologies Used
+## Technologies Used
 
 *HTML
 *CSS
 *JS
 *JSX
-*Rect modules
+*React modules
